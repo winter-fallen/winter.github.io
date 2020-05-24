@@ -1,35 +1,28 @@
 ## Welcome to Here
 
-You can use the GitHub to maintain and preview the content for your website in Markdown files.
+Hello，Miss Meng，可以在这里建立一份简历。
+如果有公司想要招人的话，你就可以把这个网址发给他们。
 
-### Markdown
+### 工作经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- xx 公司
+- yy 实验室
 
-```markdown
-Syntax highlighted code block
+### 教育背景
 
-# Header 1
-## Header 2
-### Header 3
+- xx 学校
+- yy 学校
 
-- Bulleted
-- List
+### 个人技能
+
+也可以这样
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme
 
 ### Support or Contact
 
 Having trouble with Pages? 
+
