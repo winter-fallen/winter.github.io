@@ -15,10 +15,12 @@ Hello，Miss Meng，可以在这里建立一份简历。
 
 ### 个人技能
 
-也可以这样
+```
+还可以这样
 
 1. Numbered
 2. List
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
